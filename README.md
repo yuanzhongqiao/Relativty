@@ -1,9 +1,9 @@
 <div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto">
-	<a target="_blank" rel="noopener noreferrer" href="/relativty/Relativty/blob/master/ressources/img/title.png"><img width="400" alt="相对论" src="/relativty/Relativty/raw/master/ressources/img/title.png" style="max-width: 100%;"></a>
+	<a target="_blank" rel="noopener noreferrer" href="https://github.com/relativty/Relativty/blob/master/ressources/img/title.png"><img width="400" alt="相对论" src="https://github.com/relativty/Relativty/raw/master/ressources/img/title.png" style="max-width: 100%;"></a>
 </h1><a id="" class="anchor" aria-label="永久链接：" href="#"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div class="markdown-heading" dir="auto"><h3 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-	支持 SteamVR 的开源 VR 耳机。
-</font></font></h3><a id="user-content-open-source-vr-headset-with-steamvr-support" class="anchor" aria-label="永久链接：支持 SteamVR 的开源 VR 耳机。
+	支持 SteamVR 的开源 VR 头盔。
+</font></font></h3><a id="user-content-open-source-vr-headset-with-steamvr-support" class="anchor" aria-label="永久链接：支持 SteamVR 的开源 VR 头盔。
 " href="#open-source-vr-headset-with-steamvr-support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p align="center" dir="auto">
 	<strong>
@@ -12,8 +12,8 @@
 		</font></font><a href="https://discord.gg/jARCsVb" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不和谐</font></font></a>
 	</strong>
 </p>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我是</font></font><a href="https://twitter.com/maxim_xyz?lang=en" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Maxim xyz</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，当我最好的朋友 Gabriel Combe 15 岁时，我们制作了自己的 VR 耳机，因为我们买不起。</font></font></p>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 年后：这款耳机成为 Relativty。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我是</font></font><a href="https://twitter.com/maxim_xyz?lang=en" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Maxim xyz</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，当我最好的朋友 Gabriel Combe 15 岁时，我们制作了自己的 VR 头盔，因为我们买不起。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 年后：这款头盔成为 Relativty。</font></font></p>
 <ul dir="auto">
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">完全开源——</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">硬件</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">固件</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
 <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Steam VR</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持。</font></font></li>
@@ -21,14 +21,14 @@
 <li><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与Arduino</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">兼容</font><font style="vertical-align: inherit;">。</font></font></li>
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实验性</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">身体追踪</font></font></strong></li>
 </ul>
-<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此存储库可作为构建指南，如需了解有关耳机的更多信息，请访问</font></font><a href="https://relativty.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Relativty.com</font></font></a></strong></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此存储库可作为构建指南，如需了解有关头盔的更多信息，请访问</font></font><a href="https://relativty.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Relativty.com</font></font></a></strong></p>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为黑客而生</font></font></h2><a id="user-content-made-for-hackers" class="anchor" aria-label="永久链接：为黑客而生" href="#made-for-hackers"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">相对论</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不是消费品</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">我们在我的卧室里用烙铁和 3D 打印机制作了 Relativty，我们希望您也能这样做：</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自己构建它</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Relativty 的基本原理是一款 3 自由度 (3-DoF) VR 耳机，没有内置控制器支持，旨在与 SteamVR 配合使用。</font><font style="vertical-align: inherit;">这可能会限制其在需要指关节式 VR 控制器的游戏中的实际可用性。</font><font style="vertical-align: inherit;">如果您正在寻找功能更齐全的 DIY VR 项目 6 自由度跟踪和控制器支持，我们建议您查看</font></font><a href="https://github.com/HadesVR/HadesVR"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HadesVR</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Relativty 的基本原理是一款 3 自由度 (3-DoF) VR 头盔，没有内置控制器支持，旨在与 SteamVR 配合使用。</font><font style="vertical-align: inherit;">这可能会限制其在需要指关节式 VR 控制器的游戏中的实际可用性。</font><font style="vertical-align: inherit;">如果您正在寻找功能更齐全的 DIY VR 项目 6 自由度跟踪和控制器支持，我们建议您查看</font></font><a href="https://github.com/HadesVR/HadesVR"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HadesVR</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无论您是否正在构建 Relativty 或 HadesVR，或者如果您只是想加入我们的社区并闲逛，我们都会邀请您加入</font></font><a href="https://discord.gg/F8GNKjy6RF" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord 上的 Relativty 公会</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它是 DIY/开源 VR 社区学习、成长、分享知识和寻求帮助的地方。</font></font></p>
 <div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开始建立相对论</font></font></h1><a id="user-content-start-building-relativty" class="anchor" aria-label="永久链接：开始建立相对论" href="#start-building-relativty"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="/relativty/Relativty/blob/master/ressources/img/open.jpg"><img src="/relativty/Relativty/raw/master/ressources/img/open.jpg" style="max-width: 100%;"></a> </p>
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://github.com/relativty/Relativty/blob/master/ressources/img/open.jpg"><img src="https://github.com/relativty/Relativty/raw/master/ressources/img/open.jpg" style="max-width: 100%;"></a> </p>
 <div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建硬件</font></font></h1><a id="user-content-building-the-hardware" class="anchor" aria-label="永久链接：构建硬件" href="#building-the-hardware"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1. 当前建议构建 - 截至 2023 年 5 月</font></font></h2><a id="user-content-1-current-recommended-build---as-of-may-2023" class="anchor" aria-label="永久链接：1.当前推荐构建 - 截至 2023 年 5 月" href="#1-current-recommended-build---as-of-may-2023"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1.1 简介</font></font></h3><a id="user-content-11-introduction" class="anchor" aria-label="永久链接：1.1 简介" href="#11-introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
@@ -37,16 +37,7 @@
         A VR headset is a complex system and can be difficult to figure out what is not working if you get stuck with the build.
         If you encounter any issues, join our Discord and ask for help, we are happy to assist.
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="        Following this guide to build a Relativty headset assumes basic understanding of electronics and programming Arduino boards.
-        A VR headset is a complex system and can be difficult to figure out what is not working if you get stuck with the build.
-        If you encounter any issues, join our Discord and ask for help, we are happy to assist." tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+     
   </div></div>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1.2 电子产品</font></font></h3><a id="user-content-12-electronics" class="anchor" aria-label="永久链接：1.2 电子" href="#12-electronics"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">需要以下电子元件：</font></font></p>
@@ -61,18 +52,7 @@
 first to make sure it works, before you decide to spend a significant amount of money on lenses, display(s) and other parts.
 - High performance, small form factor displays are expensive, and often very delicate. Handle them with care! :)
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="NOTES on VR DISPLAYS:
-- The display does not connect to the Microcontroller, it only connects to the Computer running your VR Apps.
-- Technically, any PC display/monitor can be configured as the display used by Relativty. Therefore, you can simply test your build on your PC monitor
-first to make sure it works, before you decide to spend a significant amount of money on lenses, display(s) and other parts.
-- High performance, small form factor displays are expensive, and often very delicate. Handle them with care! :)" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+    
   </div></div>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1.2.1 IMU 和 MCU 接线</font></font></h3><a id="user-content-121-wiring-the-imu-and-mcu" class="anchor" aria-label="永久链接：1.2.1 IMU 和 MCU 接线" href="#121-wiring-the-imu-and-mcu"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IMU需要连接到MCU进行供电和通信。</font><font style="vertical-align: inherit;">MCU 通过 USB 连接到您的计算机，将 IMU 读数发送到 SteamVR。</font></font></p>
@@ -83,18 +63,7 @@ GND         -&gt;  GND
 SDA(pin 2)  -&gt;  SDA  
 SCL(pin 3)  -&gt;  SCL  
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="Pro Micro       IMU
-VCC         ->  VCC  
-GND         ->  GND  
-SDA(pin 2)  ->  SDA  
-SCL(pin 3)  ->  SCL  " tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+    
   </div></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您使用不同的 MCU，SDA 和 SCL 引脚可能会映射到不同的引脚号。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">另外，请确保 MCU 的 VCC 与 IMU 的额定工作电压兼容。</font></font></p>
@@ -107,13 +76,13 @@ SCL(pin 3)  ->  SCL  " tabindex="0" role="button">
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机械构建需要以下部件：</font></font></p>
 <ul dir="auto">
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">外壳 - Relativty_Mechanical_build 文件夹中提供的 3D 打印模型的 .STL 文件。</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">镜头 - 用于构建可 3D 打印的耳机，需要直径 40 毫米/焦距 50 毫米的镜头。</font><font style="vertical-align: inherit;">您通常可以在 Aliexpress 或类似网站上找到这些内容。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">镜头 - 用于构建可 3D 打印的头盔，需要直径 40 毫米/焦距 50 毫米的镜头。</font><font style="vertical-align: inherit;">您通常可以在 Aliexpress 或类似网站上找到这些内容。</font></font></li>
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">表带和面部接口 - 例如 HTC Vive 的替换表带 + 泡沫。</font><font style="vertical-align: inherit;">您通常可以在 Aliexpress 或类似网站上找到这些内容。</font></font></li>
 </ul>
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="/relativty/Relativty/blob/master/ressources/img/front.jpg"><img src="/relativty/Relativty/raw/master/ressources/img/front.jpg" style="max-width: 100%;"></a> </p>
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://github.com/relativty/Relativty/blob/master/ressources/img/front.jpg"><img src="https://github.com/relativty/Relativty/raw/master/ressources/img/front.jpg" style="max-width: 100%;"></a> </p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您无法使用 3D 打印，也可以（而且更简单）仅使用 Android VR 手机壳，并对其进行修改以适合您的屏幕，以便您可以将 IMU 和 MCU 连接到其上。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这种方法的优点是您可以在一个包中获得所有内容，通常包括 IPD 调整。</font></font></p>
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="/relativty/Relativty/blob/master/ressources/img/android-vr.jpg"><img src="/relativty/Relativty/raw/master/ressources/img/android-vr.jpg" style="max-width: 100%;"></a> </p>
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://github.com/relativty/Relativty/blob/master/ressources/img/android-vr.jpg"><img src="https://github.com/relativty/Relativty/raw/master/ressources/img/android-vr.jpg" style="max-width: 100%;"></a> </p>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1.4 软件设置</font></font></h3><a id="user-content-14-software-setup" class="anchor" aria-label="永久链接：1.4 软件设置" href="#14-software-setup"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1.4.1 简介</font></font></h3><a id="user-content-141-introduction" class="anchor" aria-label="永久链接：1.4.1 简介" href="#141-introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Relativity 取决于 2 个主要软件组件：</font></font></p>
@@ -126,15 +95,15 @@ SCL(pin 3)  ->  SCL  " tabindex="0" role="button">
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如前所述，我们建议您使用 Arduino Pro Micro 和 FastIMU 库支持的 IMU。</font><font style="vertical-align: inherit;">FastIMU 是一个很棒的软件包，支持许多常用的 IMU，并附带一个可与 Relativty 配合使用的预先编写的 Arduino 草图。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">首先，您需要安装 Arduino IDE 并通过 USB 连接器将 MCU 连接到计算机。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">连接并验证 Arduino IDE 可以与 MCU 配合使用后，从库管理器下载 FastIMU。</font></font></p>
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="/relativty/Relativty/blob/master/ressources/img/FastIMU-lib.jpg"><img src="/relativty/Relativty/raw/master/ressources/img/FastIMU-lib.jpg" style="max-width: 100%;"></a> </p>
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://github.com/relativty/Relativty/blob/master/ressources/img/FastIMU-lib.jpg"><img src="https://github.com/relativty/Relativty/raw/master/ressources/img/FastIMU-lib.jpg" style="max-width: 100%;"></a> </p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">按照第 1.2.1 节中的建议连接 IMU。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Arduino IDE 中找到 Examples/Fastimu/Caliberated_relativty 草图：</font></font></p>
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="/relativty/Relativty/blob/master/ressources/img/FastIMU-sketch.jpg"><img src="/relativty/Relativty/raw/master/ressources/img/FastIMU-sketch.jpg" style="max-width: 100%;"></a> </p>
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://github.com/relativty/Relativty/blob/master/ressources/img/FastIMU-sketch.jpg"><img src="https://github.com/relativty/Relativty/raw/master/ressources/img/FastIMU-sketch.jpg" style="max-width: 100%;"></a> </p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最后，将其上传到您的 MCU。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FastIMU 还包括一个内置校准工具，可以将校准数据存储在 IMU EEPROM 上。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">校准 IMU 可能有助于解决您在使用 Relativty 时随时间推移可能遇到的传感器漂移问题。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将 Caliberated_relativty 草图上传到 IMU 后，您可以打开 Arduino 串行监视器来启动校准序列：</font></font></p>
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="/relativty/Relativty/blob/master/ressources/img/FastIMU-calib.jpg"><img src="/relativty/Relativty/raw/master/ressources/img/FastIMU-calib.jpg" style="max-width: 100%;"></a> </p>
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://github.com/relativty/Relativty/blob/master/ressources/img/FastIMU-calib.jpg"><img src="https://github.com/relativty/Relativty/raw/master/ressources/img/FastIMU-calib.jpg" style="max-width: 100%;"></a> </p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>  NOTE: you only have to do this once, but make sure to follow the instructions given to you in the serial monitor.
 </code></pre><div class="zeroclipboard-container">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="  NOTE: you only have to do this once, but make sure to follow the instructions given to you in the serial monitor." tabindex="0" role="button">
@@ -152,7 +121,7 @@ SCL(pin 3)  ->  SCL  " tabindex="0" role="button">
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载</font></font><a href="https://github.com/relativty/Relativty/archive/refs/heads/master.zip"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主存储库</font></font></a></li>
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Relativty-master 中找到 Relativty_Driver\Relativty 文件夹并将其复制到 SteamVR 安装的驱动程序目录中。</font></font></li>
 </ul>
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="/relativty/Relativty/blob/master/ressources/img/driver-copy.jpg"><img src="/relativty/Relativty/raw/master/ressources/img/driver-copy.jpg" style="max-width: 100%;"></a> </p>
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://github.com/relativty/Relativty/blob/master/ressources/img/driver-copy.jpg"><img src="https://github.com/relativty/Relativty/raw/master/ressources/img/driver-copy.jpg" style="max-width: 100%;"></a> </p>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1.4.4 配置SteamVR驱动程序</font></font></h3><a id="user-content-144-configuring-the-steamvr-driver" class="anchor" aria-label="永久链接：1.4.4 配置 SteamVR 驱动程序" href="#144-configuring-the-steamvr-driver"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">复制驱动程序文件后，就可以配置驱动程序以与您的设置和计算机配合使用。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 drivers\Relativty\resources\settings 内，应该有一个名为 default.vrsettings 的文件。</font></font></p>
@@ -171,16 +140,7 @@ SCL(pin 3)  ->  SCL  " tabindex="0" role="button">
       "hmdVid": 9025,
       "hmdIMUdmpPackets":  false,
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="      &quot;hmdPid&quot; : 32823,
-      &quot;hmdVid&quot;: 9025,
-      &quot;hmdIMUdmpPackets&quot;:  false," tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+  
   </div></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您使用不同的 MCU，则需要计算出 USB PID 和 VID 值。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最简单的方法是通过 USB 将其连接到计算机并检查 Arduino IDE。</font></font></p>
@@ -195,43 +155,19 @@ SCL(pin 3)  ->  SCL  " tabindex="0" role="button">
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>      "windowX" : 3440,
       "windowY" : 0,
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="      &quot;windowX&quot; : 3440,
-      &quot;windowY&quot; : 0," tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+     
   </div></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VR视口的实际尺寸</font></font></p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>      "windowWidth" : 1920,
       "windowHeight" : 1080,
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="      &quot;windowWidth&quot; : 1920,
-      &quot;windowHeight&quot; : 1080," tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+    
   </div></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于 VR 视口的渲染分辨率 - 通常应与尺寸相同</font></font></p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>      "renderWidth" : 1920,
       "renderHeight" : 1080,
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="      &quot;renderWidth&quot; : 1920,
-      &quot;renderHeight&quot; : 1080," tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+     
   </div></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">还有一些杂项设置：</font></font></p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>      "DistortionK1" : 0.4,
@@ -242,20 +178,7 @@ SCL(pin 3)  ->  SCL  " tabindex="0" role="button">
       "IsDisplayRealDisplay" : true,
       "IsDisplayOnDesktop" : true
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="      &quot;DistortionK1&quot; : 0.4,
-      &quot;DistortionK2&quot; : 0.5,
-      &quot;ZoomWidth&quot; : 1,
-      &quot;ZoomHeight&quot; : 1,
-      &quot;EyeGapOffsetPx&quot; : 0,
-      &quot;IsDisplayRealDisplay&quot; : true,
-      &quot;IsDisplayOnDesktop&quot; : true" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+    
   </div></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果原点和大小配置不正确，驱动程序将崩溃并且SteamVR将不会显示任何内容！</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">因此，我们需要了解并了解 SteamVR 用于显示的坐标系。</font></font></p>
@@ -263,12 +186,12 @@ SCL(pin 3)  ->  SCL  " tabindex="0" role="button">
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以在显示设置中验证哪一个是您的主要设备。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以使用鼠标选择每个显示器。</font><font style="vertical-align: inherit;">“将此设为我的主显示器”复选框呈灰色的就是您的主显示器。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本指南假设所有显示器的顶部边缘在 WINDOWS 显示设置中对齐（如屏幕截图所示）</font></font></p>
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="/relativty/Relativty/blob/master/ressources/img/display-settings.jpg"><img src="/relativty/Relativty/raw/master/ressources/img/display-settings.jpg" style="max-width: 100%;"></a> </p>
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://github.com/relativty/Relativty/blob/master/ressources/img/display-settings.jpg"><img src="https://github.com/relativty/Relativty/raw/master/ressources/img/display-settings.jpg" style="max-width: 100%;"></a> </p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">因此，在另一台非主显示器上检查相同的内容将使该显示器成为您的主显示器。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主显示器的左上角是 SteamVR 显示坐标系的原点。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为了能够告诉 SteamVR 在显示器上的何处绘制 VR 视口，您需要确保了解这一事实，从而能够识别视口的正确原点。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例如，在这样的设置中：</font></font></p>
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="/relativty/Relativty/blob/master/ressources/img/display-coordinates.jpg"><img src="/relativty/Relativty/raw/master/ressources/img/display-coordinates.jpg" style="max-width: 100%;"></a> </p>
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://github.com/relativty/Relativty/blob/master/ressources/img/display-coordinates.jpg"><img src="https://github.com/relativty/Relativty/raw/master/ressources/img/display-coordinates.jpg" style="max-width: 100%;"></a> </p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">因为“1”屏幕是主屏幕，而“3”屏幕是VR Display，所以原点（0,0 坐标）位于“1”屏幕的左上角。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该屏幕的分辨率为 3440x1440。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这意味着它占据 X 轴从 0 到 3439 的位置，右侧的下一个屏幕从点 3440 开始。</font></font></p>
@@ -276,29 +199,13 @@ SCL(pin 3)  ->  SCL  " tabindex="0" role="button">
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>      "windowX" : 3440,
       "windowY" : 0,
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="      &quot;windowX&quot; : 3440,
-      &quot;windowY&quot; : 0," tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+   
   </div></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果“2”屏幕是 VR 显示器（并且“1”仍然是主屏幕），则正确的值将是：</font></font></p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>      "windowX" : -1920,
       "windowY" : 0,
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="      &quot;windowX&quot; : -1920,
-      &quot;windowY&quot; : 0," tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+     
   </div></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">因为“2”屏幕的坐标占据了原点另一侧的空间。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于 windowWidth、windowHeight、renderWidth、renderHeight，只需设置 VR 显示器的本机分辨率即可。</font></font></p>
@@ -311,19 +218,12 @@ SCL(pin 3)  ->  SCL  " tabindex="0" role="button">
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打开 SteamVR Web 控制台并复制整个日志文件</font></font></li>
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入</font></font><a href="https://discord.gg/F8GNKjy6RF" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord 上的 Relativty 公会</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，告诉我们您遇到的问题，并在聊天中上传日志文件。</font></font></li>
 </ul>
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="/relativty/Relativty/blob/master/ressources/img/steamvr-logs.jpg"><img src="/relativty/Relativty/raw/master/ressources/img/steamvr-logs.jpg" style="max-width: 100%;"></a> </p>
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://github.com/relativty/Relativty/blob/master/ressources/img/steamvr-logs.jpg"><img src="https://github.com/relativty/Relativty/raw/master/ressources/img/steamvr-logs.jpg" style="max-width: 100%;"></a> </p>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您的 VR 窗口在点击后消失：</font></font></h3><a id="user-content-if-your-vr-window-disappears-after-clicking-on-it" class="anchor" aria-label="永久链接：如果您的 VR 窗口在点击后消失：" href="#if-your-vr-window-disappears-after-clicking-on-it"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打开 Windows PowerShell 并将这些命令粘贴到命令行中，然后按 Enter 键：</font></font></p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>get-process vrcompositor | stop-process -Force;cd "C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64";.\vrcompositor.exe
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="get-process vrcompositor | stop-process -Force;cd &quot;C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64&quot;;.\vrcompositor.exe" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+    
   </div></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">之后 VRCompositor 应保持稳定，因此您只需在每个会话中执行此操作一次。</font></font></p>
 <div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2. 旧版构建</font></font></h1><a id="user-content-2-legacy-build" class="anchor" aria-label="永久链接：2. 遗留版本" href="#2-legacy-build"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
@@ -341,7 +241,7 @@ SCL(pin 3)  ->  SCL  " tabindex="0" role="button">
 <li><code>Relativty_Electronics_build/Assembly/motherboard_BOM.xlsx</code></li>
 </ul>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件中描述了这些组件在 PCB 上的放置位置，</font></font><code>Relativty_Electronics_source/motherboard.brd</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该文&ZeroWidthSpace;&ZeroWidthSpace;件可以在 Eagle 中打开。</font></font></p>
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="/relativty/Relativty/blob/master/ressources/img/motherboard.jpg"><img src="/relativty/Relativty/raw/master/ressources/img/motherboard.jpg" style="max-width: 100%;"></a> </p>
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://github.com/relativty/Relativty/blob/master/ressources/img/motherboard.jpg"><img src="https://github.com/relativty/Relativty/raw/master/ressources/img/motherboard.jpg" style="max-width: 100%;"></a> </p>
 <div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用Arduino</font></font></h4><a id="user-content-using-an-arduino" class="anchor" aria-label="永久链接：使用 Arduino" href="#using-an-arduino"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Relativty 主板的替代方案是使用 Arduino Due 并将其连接到 MPU-6050。</font></font></p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>5V      -&gt; VCC  
@@ -350,18 +250,7 @@ SDA(20) -&gt; SDA
 SCL(21) -&gt; SCL  
 PIN 2   -&gt; INT  
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="5V      -> VCC  
-GND     -> GND  
-SDA(20) -> SDA  
-SCL(21) -> SCL  
-PIN 2   -> INT  " tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+    
   </div></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您使用带有替代固件的 MPU-9250，则引脚排列为：</font></font></p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>5V      -&gt; VCC  
@@ -369,21 +258,11 @@ GND     -&gt; GND
 SDA(20) -&gt; SDA  
 SCL(21) -&gt; SCL   
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="5V      -> VCC  
-GND     -> GND  
-SDA(20) -> SDA  
-SCL(21) -> SCL   " tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+   
   </div></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">然后按下Arduino Due 上的</font></font><code>ERASE</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><code>RESET</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">按钮，您就可以安装 Relativty 固件。</font></font></p>
 <div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装 Reltivty 固件</font></font></h4><a id="user-content-installing-the-relativty-firmware" class="anchor" aria-label="永久链接：安装 Relativty 固件" href="#installing-the-relativty-firmware"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="/relativty/Relativty/blob/master/ressources/img/cards.jpg"><img src="/relativty/Relativty/raw/master/ressources/img/cards.jpg" style="max-width: 100%;"></a> </p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://github.com/relativty/Relativty/blob/master/ressources/img/cards.jpg"><img src="https://github.com/relativty/Relativty/raw/master/ressources/img/cards.jpg" style="max-width: 100%;"></a> </p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 您现在需要在 Arduino IDE 中安装 Relativty 板。 
 </font></font><p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为此，请复制 JSON URL：</font></font><a href="https://raw.githubusercontent.com/relativty/Relativty/master/Relativty_Firmware/package_Relativty_board_index.json" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://raw.githubusercontent.com/relativty/Relativty/master/Relativty_Firmware/package_Relativty_board_index.json</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并打开 Arduino IDE</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Arduino 中，单击“文件”，然后单击“首选项”：</font></font></p>
@@ -401,7 +280,7 @@ SCL(21) -> SCL   " tabindex="0" role="button">
 </ul>
 <div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建机械零件</font></font></h1><a id="user-content-building-the-mechanical-parts" class="anchor" aria-label="永久链接：构建机械零件" href="#building-the-mechanical-parts"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">组装 HMD</font></font></h2><a id="user-content-assembling-the-hmd" class="anchor" aria-label="永久链接：组装 HMD" href="#assembling-the-hmd"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3D 打印所需的所有文件都可以在该</font></font><code>Relativty_Mechanical_build</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件夹中找到，组装耳机所需的螺钉列于 中</font></font><code>screws_BOM.xlsx</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3D 打印所需的所有文件都可以在该</font></font><code>Relativty_Mechanical_build</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件夹中找到，组装头盔所需的螺钉列于 中</font></font><code>screws_BOM.xlsx</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们使用了速卖通的零件：</font></font></p>
 <ul dir="auto">
 <li><a href="https://www.aliexpress.com/item/33058848848.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">表带</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">,</font></font></li>
@@ -410,7 +289,7 @@ SCL(21) -> SCL   " tabindex="0" role="button">
 </ul>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HMD 的屏幕</font></font></h3><a id="user-content-the-screen-for-the-hmd" class="anchor" aria-label="永久链接：HMD 的屏幕" href="#the-screen-for-the-hmd"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="/relativty/Relativty/blob/master/ressources/img/display.jpg"><img src="/relativty/Relativty/raw/master/ressources/img/display.jpg" style="max-width: 100%;"></a> </p>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Relativty 耳机以 120FPS 2K 速度运行双屏，但是，由于 Relativty 的开放性，您可以为其配备任何屏幕。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Relativty 头盔以 120FPS 2K 速度运行双屏，但是，由于 Relativty 的开放性，您可以为其配备任何屏幕。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的型号可以在 Aliexpress 上找到，但根据供应商的不同，类似的屏幕价格可能从 150 美元到 190 美元不等。</font><font style="vertical-align: inherit;">您必须寻找并可能以合适的价格等待合适的供应商才能以便宜的价格获得显示器（或批量购买）。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是</font></font><a href="https://www.aliexpress.com/item/32975198897.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们使用的模型</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置软件</font></font></h3><a id="user-content-setting-up-the-software" class="anchor" aria-label="永久链接：设置软件" href="#setting-up-the-software"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
@@ -610,8 +489,8 @@ SCL(21) -> SCL   " tabindex="0" role="button">
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现在一切都已准备就绪，可以开始播放了。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开始使用相对论：</font></font></p>
 <ul dir="auto">
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将耳机放在平坦的表面上，前面板朝向地面</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">插入耳机。</font><font style="vertical-align: inherit;">几秒钟后它会自动校准。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将头盔放在平坦的表面上，前面板朝向地面</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">插入头盔。</font><font style="vertical-align: inherit;">几秒钟后它会自动校准。</font></font></li>
 </ul>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您现在可以运行任何 SteamVR 游戏！</font></font></p>
 </article></div>
